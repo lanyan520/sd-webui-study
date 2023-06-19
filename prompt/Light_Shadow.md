@@ -9,7 +9,7 @@ Tip: 在使用backlightting时偶尔会发现人物背着头往后看，尝试�
 
 下面是一组对比图效果
 
-![backlighting 和backlight](https://github.com/lanyan520/sd-webui-study/blob/main/resource/images/backlight_backlighting.png)
+![backlighting 和backlight](https://github.com/lanyan520/sd-webui-study/resource/images/backlight_backlighting.png)
 
 ### blue hour和bokh
 > 蓝调时刻（blue hour）指的是每天日出或日落前后的一段时间，天空呈现出浅蓝色或暗蓝色的情况。这个时段通常持续约20-30分钟，摄影师喜欢在蓝色时刻拍摄城市景观、建筑物或风景，以获得独特而迷人的效果。
