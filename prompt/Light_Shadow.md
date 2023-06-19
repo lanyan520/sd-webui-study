@@ -9,6 +9,8 @@ Tip: 在使用backlightting时偶尔会发现人物背着头往后看，尝试�
 
 下面是一组对比图效果
 
+![backlighting 和backlight](https://github.com/lanyan520/sd-webui-study/blob/main/resource/images/backlight_backlighting.png)
+
 ### blue hour和bokh
 > 蓝调时刻（blue hour）指的是每天日出或日落前后的一段时间，天空呈现出浅蓝色或暗蓝色的情况。这个时段通常持续约20-30分钟，摄影师喜欢在蓝色时刻拍摄城市景观、建筑物或风景，以获得独特而迷人的效果。
 > 背景虚化（bokeh）是指摄影中背景模糊的效果。它是通过在相机镜头的焦点范围之外创建柔和、模糊的背景来实现的。背景虚化通常是通过使用大光圈（小F值）和较长的焦距来实现的。在肖像、微距或需要突出主体的摄影中，背景虚化常常被广泛应用。
